@@ -12,13 +12,13 @@ body {
 <div id="ios"> 
 <p>
 <a rel="ar" href="https://jdosses.github.io/Augmented/Mask_1.reality">
-<img src="https://i.imgur.com/Et1UxEC.png" width="auto" height="300">
+<img src="https://i.imgur.com/Et1UxEC.png" width="auto" height="auto">
 </a>
 </p>
 </div>  
 <div id="Android">  
   <p>
-<a href="intent://arvr.google.com/scene-viewer/1.0?file=https://jdosses.github.io/Augmented/Rocket.glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://developers.google.com/ar;end;"><img src="https://i.imgur.com/b5X8BXu.png" width="auto" height="300"></a>
+<a href="intent://arvr.google.com/scene-viewer/1.0?file=https://jdosses.github.io/Augmented/Rocket.glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://developers.google.com/ar;end;"><img src="https://i.imgur.com/b5X8BXu.png" width="auto" height="auto"></a>
   </p>  
 </div>
 </div>   
