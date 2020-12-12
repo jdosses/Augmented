@@ -18,7 +18,7 @@ body {
 </div>  
 <div id="Android">  
   <p>
-<a href="https://jdosses.github.io/Augmented/Rocket.glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://developers.google.com/ar;end;">Rocket</a>
+<a href="intent://arvr.google.com/scene-viewer/1.0?file=https://jdosses.github.io/Augmented/Rocket.glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://developers.google.com/ar;end;">Rocket</a>
   </p>  
 </div>
 </div>   
