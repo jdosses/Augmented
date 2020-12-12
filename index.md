@@ -15,6 +15,11 @@ body {
 <img src="https://i.imgur.com/Et1UxEC.png" width="auto" height="auto">
 </a>
 </p>
+<p>
+<a rel="ar" href="https://jdosses.github.io/Augmented/HeadBand.reality">
+<img src="https://i.imgur.com/gx5HjN4.png" width="auto" height="auto">
+</a>
+</p>
 </div>  
 <div id="Android">  
   <p>
