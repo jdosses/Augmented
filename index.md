@@ -5,6 +5,9 @@
 body {
   background-color: #F8F8F8;
 }
+p .view  {
+  visibility: hidden;
+  }
 </style>
 </head>
 <body>  
