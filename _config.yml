@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
 title: AR Test files
-description: myCustomAndDetailedDescription
+description: Experience these AR ready files on your mobile device. If you are using Android you need the ACore service installed, if you do not have it, it'll re direct you to the Play Store so you can get it. If you are on a iOS device with True Depth technology it'll work as expected, if not,the AR file will be shown by default in the main camera only.
