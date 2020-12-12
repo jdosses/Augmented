@@ -6,7 +6,7 @@
 <div id="AR"> 
 <div id="ios"> 
 <p>
-<a rel="ar" href="https://jdosses.github.io/Augmented/Mask_1.reality">
+<a rel="ar" href="https://jdosses.github.io/Augmented/Mask_1.reality#callToAction=Face%20mask&checkoutTitle=Face%20mask&checkoutSubtitle=Disposable,%20breathable%20face%20mask&price=$5">
 <img src="https://i.imgur.com/Et1UxEC.png" width="auto" height="auto">
 </a>
 </p>
