@@ -11,7 +11,7 @@
 </a>
 </p>
 <p>
-<a rel="ar" href="https://jdosses.github.io/Augmented/HeadBand.reality">
+<a rel="ar" href="https://jdosses.github.io/Augmented/HeadBand.reality#callToAction=Add%20to%20cart&checkoutTitle=Biplane%20Toy&checkoutSubtitle=Rustic%20finish%20with%20rotating%20propeller&price=$15">
 <img src="https://i.imgur.com/gx5HjN4.png" width="auto" height="auto">
 </a>
 </p>
