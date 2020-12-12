@@ -1,14 +1,6 @@
 <html>
 <head>
 <meta http-equiv="AddType" content="model/vnd.reality">
-<style>
-body {
-  background-color: #F8F8F8;
-}
-p .view  {
-  visibility: hidden;
-  }
-</style>
 </head>
 <body>  
 <div id="AR"> 
