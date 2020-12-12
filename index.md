@@ -18,7 +18,7 @@ body {
 </div>  
 <div id="Android">  
   <p>
-<model-viewer ar alt="A 3D model of a Rocket" src="https://jdosses.github.io/Augmented/Rocket.glb"></model-viewer>
+<a href="intent://arvr.google.com/scene-viewer/1.0?file=https://jdosses.github.io/Augmented/Rocket.glt#Intent;scheme=https;package=com.google.android.googlequicksearchbox;action=android.intent.action.VIEW;S.browser_fallback_url=https://jdosses.github.io/Augmented;end;">Rocket</a>
   </p>  
 </div>
 </div>   
