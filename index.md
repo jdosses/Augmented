@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head
 <meta http-equiv="AddType" content="model/vnd.reality">
