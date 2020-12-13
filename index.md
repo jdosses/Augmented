@@ -2,7 +2,10 @@
 <head>
 <meta http-equiv="AddType" content="model/vnd.reality">
 </head>
-<body>  
+<body>
+<div id="description">  
+<p> For Android users you need the ACore service installed that comes in all recent models, if you do not have it, it'll re direct you to the Play Store so you can get it (if available). For iOS (12 and later) users you need a device with a TrueDepth camera (iPhone X and later) so it'll work as expected, if not, the AR file will be shown by default in the main camera ignoring any subject tracking settings.</p>  
+</div>  
 <div id="AR"> 
 <div id="ios"> 
 <p>
