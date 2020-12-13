@@ -6,7 +6,7 @@
 <div id="AR"> 
 <div id="ios"> 
 <p>
-<a rel="ar" href="https://jdosses.github.io/Augmented/Objects/DNA.reality#callToAction=DNA%20strands&checkoutTitle=Go%20back&checkoutSubtitle=Quick%20spin%20animation">
+<a rel="ar" href="https://jdosses.github.io/Augmented/Objects/DNA.reality#callToAction=Go%20back&checkoutTitle=DNA%20strands&checkoutSubtitle=Quick%20spin%20animation">
 <img src="https://i.imgur.com/BEcs6JC.png" width="auto" height="auto">
 </a>
 </p>
