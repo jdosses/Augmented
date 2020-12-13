@@ -4,7 +4,7 @@
 </head>
 <body>
 <div id="description">  
-<p class="description">Android users require the ACore service installed that comes in all recent models, if you do not have it, it'll re direct you to the Play Store.<br><br>iOS users require a device with a TrueDepth camera (iPhone X and later) so it'll work as expected, if not, the AR object will be shown by default in the main camera ignoring any subject tracking settings if present.<br></p>  
+<p class="description">Android users require the ACore service installed that comes in all recent models, if you do not have it, it'll re direct you to the Play Store.<br><br>iPhone users require iOS 11.0+. Specific features such as face tracking, a device with a TrueDepth Camera is required, and the Call To Action feature requires iOS 13.3.<br></p>  
 </div>  
 <div id="AR"> 
 <div id="ios"> 
