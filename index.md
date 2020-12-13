@@ -4,7 +4,7 @@
 </head>
 <body>
 <div id="description">  
-<p>Android users require the ACore service installed that comes in all recent models, if you do not have it, it'll re direct you to the Play Store.<br><br>iOS 12 users and later need a device with a TrueDepth camera (iPhone X and later) so it'll work as expected, if not, the AR file will be shown by default in the main camera ignoring any subject tracking settings.</p>  
+<p class="description">Android users require the ACore service installed that comes in all recent models, if you do not have it, it'll re direct you to the Play Store.<br><br>iOS users require a device with a TrueDepth camera (iPhone X and later) so it'll work as expected, if not, the AR object will be shown by default in the main camera ignoring any subject tracking settings if present.<br></p>  
 </div>  
 <div id="AR"> 
 <div id="ios"> 
