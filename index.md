@@ -3,9 +3,6 @@
 <meta http-equiv="AddType" content="model/vnd.reality">
 </head>
 <body>
-<div id="description">  
-<p class="description">Android users require the ACore service installed that comes in all recent models, if you do not have it, it'll re direct you to the Play Store.<br><br>iPhone users require iOS 11.0+. Specific features such as face tracking, a device with a TrueDepth Camera is required, and the Call To Action feature requires iOS 13.3.<br></p>  
-</div>  
 <div id="AR"> 
 <div id="ios"> 
 <p>
@@ -24,6 +21,9 @@
 <a href="intent://arvr.google.com/scene-viewer/1.0?file=https://jdosses.github.io/Augmented/Rocket.glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en&gl=US;end;"><img src="https://i.imgur.com/b5X8BXu.png" width="auto" height="auto"></a>
   </p>  
 </div>
+</div>
+ <div id="description">  
+<p class="description">Android users require the ACore service installed that comes in all recent models, if you do not have it, it'll re direct you to the Play Store.<br><br>iPhone users require iOS 11.0+. Specific features such as face tracking, a device with a TrueDepth Camera is required, and the Call To Action feature requires iOS 13.3.<br></p>  
 </div>   
 </body>
 </html>
