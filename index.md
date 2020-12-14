@@ -28,7 +28,7 @@
 </div>
 </div>
  <div id="description">  
-<p class="description">Android users require V7.0 or newer and the ACore service included in all recent distributions, if you do not have it it'll re direct you to the Play Store.<br><br>iPhone users require iOS 11.0+. Specific features such as face tracking require a device with a TrueDepth Camera and the Call To Action feature requires iOS 13.3.<br></p>  
+<p class="description">Android users require V7.0 or newer and the ACore service included in all recent distributions, if you do not have it it'll re direct you to the Play Store.<br><br>iPhone users require iOS 12+ Specific features such as face tracking require a device with a TrueDepth Camera and the Call To Action feature requires iOS 13.3.<br></p>  
 </div>   
 </body>
 </html>
