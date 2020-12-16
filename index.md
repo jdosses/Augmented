@@ -7,23 +7,23 @@
 <div id="ios"> 
 <p>
 <a rel="ar" href="https://jdosses.github.io/Augmented/Objects/DNA.reality#callToAction=Go%20back&checkoutTitle=DNA%20strands&checkoutSubtitle=Quick%20spin%20animation">
-<img src="https://i.imgur.com/7GAmgAo.png" width="auto" height="auto">
+<img src="https://i.imgur.com/7GAmgAo.png" width="auto" height="auto" alt="Augmented reality AR">
 </a>
 </p>
 <p>
 <a rel="ar" href="https://jdosses.github.io/Augmented/Mask_1.reality#callToAction=Face%20mask&checkoutTitle=Face%20mask&checkoutSubtitle=Disposable,%20breathable%20face%20mask&price=$5">
-<img src="https://i.imgur.com/voKguHE.png" width="auto" height="auto">
+<img src="https://i.imgur.com/voKguHE.png" width="auto" height="auto" alt="Augmented reality AR">
 </a>
 </p>
 <p>
 <a rel="ar" href="https://jdosses.github.io/Augmented/HeadBand.reality#callToAction=Add%20to%20cart&checkoutTitle=Reindeer%20Headband&checkoutSubtitle=Rustic%20finish%20with%20rotating%20propeller&price=$8">
-<img src="https://i.imgur.com/WifJWTB.png" width="auto" height="auto">
+<img src="https://i.imgur.com/WifJWTB.png" width="auto" height="auto" alt="Augmented reality AR">
 </a>
 </p>
 </div>  
 <div id="Android">  
   <p>
-<a href="intent://arvr.google.com/scene-viewer/1.0?file=https://jdosses.github.io/Augmented/Rocket.glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en&gl=US;end;"><img src="https://i.imgur.com/BBOaFSV.png" width="auto" height="auto"></a>
+<a href="intent://arvr.google.com/scene-viewer/1.0?file=https://jdosses.github.io/Augmented/Rocket.glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en&gl=US;end;"><img src="https://i.imgur.com/BBOaFSV.png" width="auto" height="auto" alt="Augmented reality AR"></a>
   </p>  
 </div>
 </div>
