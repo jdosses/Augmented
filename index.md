@@ -6,6 +6,11 @@
 <div id="AR"> 
 <div id="ios"> 
 <p>
+<a rel="ar" href="https://jdosses.github.io/Augmented/Objects/QuidProBroAnimation.reality#callToAction=Go%20back&checkoutTitle=Quid%20Pro%20Bro&checkoutSubtitle=osses.com.co%20">
+<img src="https://i.imgur.com/RqPKZLt.png" width="auto" height="auto" alt="Augmented reality AR">
+</a>
+</p>
+<p>
 <a rel="ar" href="https://jdosses.github.io/Augmented/Objects/DNA.reality#callToAction=Go%20back&checkoutTitle=DNA%20strands&checkoutSubtitle=Quick%20spin%20animation">
 <img src="https://i.imgur.com/7GAmgAo.png" width="auto" height="auto" alt="Augmented reality AR">
 </a>
