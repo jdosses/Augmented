@@ -10,7 +10,6 @@
 </model-viewer>
 <model-viewer src="https://jdosses.github.io/Augmented/QuidProBro_00_MAT_Reduced.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/QuidProBro.usdz" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/EKQPMVb.png" alt="augmented reality 3d experience">
 </model-viewer>
-</model-viewer>
 <model-viewer src="https://jdosses.github.io/Augmented/rocket-1.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/rocket-animated-1.usdz" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/YiyjAn7.png" alt="augmented reality 3d experience">
 </model-viewer>
 <p>
