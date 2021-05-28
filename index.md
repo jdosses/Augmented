@@ -7,7 +7,7 @@
 <div id="ios"> 
 <model-viewer src="https://jdosses.github.io/cartel-activista/nomasviolencia-android-2.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/cartel-activista/nomasviolencia-iOS-2.usdz#callToAction=Go%20back&checkoutTitle=No%20+%20ESMAD&checkoutSubtitle=¡Viva%20el%20paro%20Nacional!%20" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/KollzUJ.jpg" alt="augmented reality 3d experience">
 </model-viewer>
-<model-viewer src="https://jdosses.github.io/Augmented/Objects/QuidProBro_00_MAT_Reduced.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/Objects/QuidProBroAnimation.reality" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/KollzUJ.jpg" alt="augmented reality 3d experience">
+<model-viewer src="https://jdosses.github.io/Augmented/Objects/QuidProBro_00_MAT_Reduced.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/Objects/QuidProBro.usdz" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/EKQPMVb.png" alt="augmented reality 3d experience">
 </model-viewer>
 <p>
 <a rel="ar" href="https://jdosses.github.io/Augmented/Objects/DNA.reality#callToAction=Go%20back&checkoutTitle=DNA%20strands&checkoutSubtitle=Quick%20spin%20animation">
