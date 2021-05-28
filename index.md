@@ -8,7 +8,10 @@
 <div id="ios"> 
 <model-viewer src="https://jdosses.github.io/cartel-activista/nomasviolencia-android-2.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/cartel-activista/nomasviolencia-iOS-2.usdz#callToAction=Go%20back&checkoutTitle=No%20+%20ESMAD&checkoutSubtitle=¡Viva%20el%20paro%20Nacional!%20" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/KollzUJ.jpg" alt="augmented reality 3d experience">
 </model-viewer>
-<model-viewer src="https://jdosses.github.io/Augmented/Objects/QuidProBro_00_MAT_Reduced.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/Objects/QuidProBro.usdz" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/EKQPMVb.png" alt="augmented reality 3d experience">
+<model-viewer src="https://jdosses.github.io/Augmented/QuidProBro_00_MAT_Reduced.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/QuidProBro.usdz" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/EKQPMVb.png" alt="augmented reality 3d experience">
+</model-viewer>
+</model-viewer>
+<model-viewer src="https://jdosses.github.io/Augmented/rocket-1.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/rocket-animated-1.usdz" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/YiyjAn7.png" alt="augmented reality 3d experience">
 </model-viewer>
 <p>
 <a rel="ar" href="https://jdosses.github.io/Augmented/Objects/DNA.reality#callToAction=Go%20back&checkoutTitle=DNA%20strands&checkoutSubtitle=Quick%20spin%20animation">
@@ -26,11 +29,6 @@
 </a>
 </p>
 </div>  
-<div id="Android">  
-  <p>
-<a href="intent://arvr.google.com/scene-viewer/1.0?file=https://jdosses.github.io/Augmented/Rocket.glb&mode=ar_only#Intent;scheme=https;package=com.google.ar.core;action=android.intent.action.VIEW;S.browser_fallback_url=https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en&gl=US;end;"><img src="https://i.imgur.com/BBOaFSV.png" width="auto" height="auto" alt="Augmented reality AR"></a>
-  </p>  
-</div>
 </div>
  <div id="description">  
 <p class="description">Android users require V7.0 or newer and the ACore service included in all recent distributions, if you do not have it it'll re direct you to the Play Store.<br><br>iPhone users require iOS 12+ Specific features such as face tracking require a device with a TrueDepth Camera and the Call To Action feature requires iOS 13.3.<br></p>  
