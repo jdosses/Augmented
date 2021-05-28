@@ -24,3 +24,11 @@ text-color: #6d7178;
 p.description {
 text-color: #727272;
 }
+footer {
+visibility: hidden;
+opacity: 0;
+}
+model-viewer {
+  width: 350px;
+  height: 350px;
+}
