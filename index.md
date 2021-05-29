@@ -12,11 +12,8 @@
 </model-viewer>
 <model-viewer src="https://jdosses.github.io/Augmented/rocket-1.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/rocket-animated-1.usdz" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/YiyjAn7.png" alt="augmented reality 3d experience">
 </model-viewer>
-<p>
-<a rel="ar" href="https://jdosses.github.io/Augmented/Objects/DNA.reality#callToAction=Go%20back&checkoutTitle=DNA%20strands&checkoutSubtitle=Quick%20spin%20animation">
-<img src="https://i.imgur.com/7GAmgAo.png" width="auto" height="auto" alt="Augmented reality AR">
-</a>
-</p>
+<model-viewer src="https://jdosses.github.io/Augmented/DNA.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/Augmented/DNA-1.usdz" camera-orbit="45deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/7GAmgAo.png" alt="augmented reality 3d experience">
+</model-viewer>
 <p>
 <a rel="ar" href="https://jdosses.github.io/Augmented/Mask_1.reality#callToAction=Face%20mask&checkoutTitle=Face%20mask&checkoutSubtitle=Disposable,%20breathable%20face%20mask&price=$5">
 <img src="https://i.imgur.com/voKguHE.png" width="auto" height="auto" alt="Augmented reality AR">
